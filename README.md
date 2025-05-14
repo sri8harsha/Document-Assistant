@@ -1,4 +1,4 @@
-# LLM-Powered Internal Assistant
+# LLM-Powered Document Assistant
 
 A Gradio-based interface for internal teams to summarize documents and interact with LLM workflows. This project provides an intuitive interface for document processing and AI-powered interactions.
 
